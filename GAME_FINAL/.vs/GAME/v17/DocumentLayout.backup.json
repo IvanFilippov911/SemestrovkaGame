@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\game\\assets\\scripts\\dieonenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dieonenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|c:\\users\\user\\downloads\\game\\assets\\scripts\\playerstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstatsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\networkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\networkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\destroyselfondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyselfondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\characterloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\playerstatsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstatsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|C:\\Users\\User\\Downloads\\GAME\\assets\\scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599DF7C7-BC70-F51E-9182-D6E2C141F7B8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DieOnEnter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\DieOnEnter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DieOnEnter.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\DieOnEnter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DieOnEnter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:57:13.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:03:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerStatsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\PlayerStatsDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStatsDisplay.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\PlayerStatsDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStatsDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:17:31.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerStatsUI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\PlayerStatsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStatsUI.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\PlayerStatsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerStatsUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:01:03.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterLoader.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\CharacterLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterLoader.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\CharacterLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:23:08.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartGame.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\StartGame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartGame.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:26:28.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\NetworkClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NetworkClient.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\NetworkClient.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NetworkClient.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA9wC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:04:38.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestroySelfOnDeath.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\DestroySelfOnDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroySelfOnDeath.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\DestroySelfOnDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroySelfOnDeath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:31:39.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T21:09:50.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\Hero.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hero.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\GAME\\Assets\\Scripts\\Hero.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:10:51.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
